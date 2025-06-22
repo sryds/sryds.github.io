@@ -8,6 +8,7 @@ body {
   background: #EAEFEF;
   color: #222;
   font-family: "Quicksand", sans-serif;
+  font-size: small;
   line-height: 1.6;
   min-height: 100vh;
 }
@@ -15,6 +16,7 @@ body {
 header {
     display: flex;
     font-family: "Quicksand", sans-serif;
+    font-size: larger;
     justify-content: center;
     flex-direction: column;
   margin: 0;
@@ -117,6 +119,6 @@ footer {
   }
   nav a {
     display: block;
-    margin: 0.5rem 0;
+    margin: 1rem 0;
   }
 }
